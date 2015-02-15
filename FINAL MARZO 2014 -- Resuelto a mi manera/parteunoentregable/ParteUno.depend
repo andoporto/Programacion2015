@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1393609978 source:c:\users\pc\desktop\final 01-03-2014\01-03-2014\parteunoentregable\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1393602866 c:\users\pc\desktop\final 01-03-2014\01-03-2014\parteunoentregable\funciones.h
+	"pila.h"
+
+1393602676 c:\users\pc\desktop\final 01-03-2014\01-03-2014\parteunoentregable\pila.h
+	<stdlib.h>
+
+1395368792 source:c:\users\pc\desktop\final 01-03-2014\01-03-2014\parteunoentregable\main.c
+	"main.h"
+
+1393602904 c:\users\pc\desktop\final 01-03-2014\01-03-2014\parteunoentregable\main.h
+	<stdio.h>
+	"funciones.h"
+
+1393620778 source:c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014\parteunoentregable\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1393613666 c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014\parteunoentregable\funciones.h
+	"pila.h"
+
+1393613476 c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014\parteunoentregable\pila.h
+	<stdlib.h>
+
+1395379644 source:c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014\parteunoentregable\main.c
+	"main.h"
+
+1393613704 c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014\parteunoentregable\main.h
+	<stdio.h>
+	"funciones.h"
+
+1418340107 source:c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014 -- resuelto a mi manera\parteunoentregable\main.c
+	"main.h"
+
+1393613704 c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014 -- resuelto a mi manera\parteunoentregable\main.h
+	<stdio.h>
+	"funciones.h"
+
+1418338817 c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014 -- resuelto a mi manera\parteunoentregable\funciones.h
+	"pila.h"
+
+1393613476 c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014 -- resuelto a mi manera\parteunoentregable\pila.h
+	<stdlib.h>
+
+1418341919 source:c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014 -- resuelto a mi manera\parteunoentregable\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

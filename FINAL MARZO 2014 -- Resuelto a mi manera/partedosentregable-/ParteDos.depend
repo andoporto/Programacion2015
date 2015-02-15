@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1387411452 source:c:\final-20131218\partedosentregable\caja.cpp
+	"caja.h"
+
+1387411394 c:\final-20131218\partedosentregable\caja.h
+	<iostream>
+
+1387411344 source:c:\final-20131218\partedosentregable\main.cpp
+	<iostream>
+	"caja.h"
+
+1406772766 source:c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014 -- resuelto a mi manera\partedosentregable-\main.cpp
+	<iostream>
+	"Producto.h"
+
+1406773928 c:\users\public\documents\unlam\programacion ii\actualizado 2013\final marzo 2014 -- resuelto a mi manera\partedosentregable-\producto.h
+	<iostream>
+
