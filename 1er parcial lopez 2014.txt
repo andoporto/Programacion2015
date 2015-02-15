@@ -1,0 +1,11 @@
+1- Se requiere un programa que permita ingresar hasta un máximo de 10 pares de cadenas y las almacene en un array de modo que las menor quede en primer lugar y la mayor en segundo lugar, para cada par de cadenas. El ingreso y almacenamiento termina cuando se ingresa el total de 20 cadenas o en cuanto una de las cadenas del par sea "final". Al terminar la carga de array se debe mostrar el total de las cadenas mostradas. 
+Para el ingreso de las cadenas escriba una función que reciba como argumento de salida ***** y devuelva un identificador de que la primer cadena es mayor, menor o igual que la segunda. 
+Para determinar si una cadena es mayo, menor o igual que otra, considere que si sus longitudes difieren la de menor longitud es menor que la otra pero en casa de que sus longitudes coincidan, se debe terminar la comparación lexicográfica. 
+
+Al ****, válgase de una función que comprare dos cadenas por su longitud si a ser invocada por la función de ingreso1, y en caso de ser necesario que compara carácter por carácter (comparación lexicográfica, considerando que mayúsculas y minúsculas son iguales). Estas dos funciones de comparación deben ser realizadas sin hacer uso de funciones de bibliotecas y haciendo uso de aritmética de punteros. 
+Observación: 
+Se supone que las cadenas tiene un máximo de 80 caracteres.
+La cadena de finalización y de haberla la que la acompaña NO se cargan.
+
+2- Valiéndose de una lista simplemente enlazada, proceda a cargar en la misma las cadenas almacenadas en el array, para luego mostrar las cadenas ordenadas de mayor a menor.
+Para ello debe desarrollar al menos las primitivas que permitan crear una lista, insertar en orden y sacar primero de lista. 

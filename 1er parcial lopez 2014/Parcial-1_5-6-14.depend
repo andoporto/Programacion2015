@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1402443377 source:c:\users\juliano\dropbox\codeblocksproject_2014\parcial-1_5-6-14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1402442035 c:\users\juliano\dropbox\codeblocksproject_2014\parcial-1_5-6-14\funciones.h
+
+1402443415 source:c:\users\juliano\dropbox\codeblocksproject_2014\parcial-1_5-6-14\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
